@@ -12,7 +12,7 @@ I've been Learnig to code for 1yr now, looking forward to connect and contribute
 * ✉️  You can contact me at [johnchinweike08@gmail.com](mailto:johnchinweike08@gmail.com)
 * 🧠  I'm learning A New/popular Framework
 * 🤝  I'm open to collaborating on Interesting and open source project
-* ⚡  Am still trying to figure out what language/framework that's best for me🤦
+<!-- * ⚡  Am still trying to figure out what language/framework that's best for me🤦 -->
 
 ### Skills
 
